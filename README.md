@@ -6,7 +6,7 @@
 
 ------------------------------------------------------------------------
 
-## 📋 Overview
+##  Overview
 
 This repository documents a completed **Digital Forensics investigation
 lab** focused on metadata analysis and file signature examination.
@@ -24,7 +24,7 @@ controlled academic environment.
 
 ------------------------------------------------------------------------
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 -   Analyze **system metadata (MAC times)**\
 -   Examine **application metadata** in Microsoft Office documents\
@@ -35,7 +35,7 @@ controlled academic environment.
 
 ------------------------------------------------------------------------
 
-## 🛠️ Tools Used
+##  Tools Used
 
   Tool                 Purpose
   -------------------- --------------------------------------------
@@ -45,7 +45,7 @@ controlled academic environment.
 
 ------------------------------------------------------------------------
 
-## 🔍 Case Study Scenario
+##  Case Study Scenario
 
 ### Background
 
@@ -70,7 +70,7 @@ from another source by analyzing:
 
 ------------------------------------------------------------------------
 
-# 🔬 Key Findings
+#  Key Findings
 
 ## Task 1: Harassment Document Metadata Analysis
 
@@ -149,7 +149,7 @@ Example:
 
 ------------------------------------------------------------------------
 
-# 📊 Core Forensic Concepts
+#  Core Forensic Concepts
 
 -   MAC Times (Modified, Accessed, Created)\
 -   Signature vs Extension Matching\
@@ -159,14 +159,14 @@ Example:
 
 ------------------------------------------------------------------------
 
-# ⚖️ Legal & Ethical Notice
+#  Legal & Ethical Notice
 
 This project was completed for educational purposes in a controlled lab
 environment. All case details are fictional.
 
 ------------------------------------------------------------------------
 
-# 📝 Author
+#  Author
 
 Arinze Ihekweme\
 Digital Forensics Student\
