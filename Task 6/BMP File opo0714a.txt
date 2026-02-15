@@ -1,0 +1,2 @@
+First 2 bytes: 42 4D
+ASCII interpretation: "BM"

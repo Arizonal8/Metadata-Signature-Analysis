@@ -1,0 +1,61 @@
+Metadata
+Name:
+/img_Laquita.vmdk/vol_vol3/Users/Laquita/Pictures/GPS Images/P3.jpg
+Type:
+File System
+MIME Type:
+image/jpeg
+Size:
+2657539
+File Name Allocation:
+Allocated
+Metadata Allocation:
+Allocated
+Modified:
+2017-04-12 16:17:36 BST
+Accessed:
+2017-07-05 10:45:32 BST
+Created:
+2017-07-05 10:45:32 BST
+Changed:
+2017-07-05 10:45:32 BST
+MD5:
+1c000f0600b9bbac2773ccca09307fe1
+SHA-256:
+f64d020bbb98ae0bb5fc9b38d509353dfa332ccd886f0efc97a9009bf215cb32
+Hash Lookup Results:
+UNKNOWN
+Internal ID:
+2968
+From The Sleuth Kit istat Tool:
+MFT Entry Header Values:
+Entry: 12018 Sequence: 2
+$LogFile Sequence Number: 53275711
+Allocated File
+Links: 1
+
+$STANDARD_INFORMATION Attribute Values:
+Flags: Archive
+Owner ID: 0
+Security ID: 624 (S-1-5-21-1612545832-1235754521-3993930043-1001)
+Last User Journal Update Sequence Number: 2939128
+Created: 2017-07-05 10:45:32.760102400 (BST)
+File Modified: 2017-04-12 16:17:36.000000000 (BST)
+MFT Modified: 2017-07-05 10:45:32.776700900 (BST)
+Accessed: 2017-07-05 10:45:32.760102400 (BST)
+
+$FILE_NAME Attribute Values:
+Flags: Archive
+Name: P3.jpg
+Parent MFT Entry: 12015 Sequence: 2
+Allocated Size: 2658304 Actual Size: 0
+Created: 2017-07-05 10:45:32.760102400 (BST)
+File Modified: 2017-07-05 10:45:32.760102400 (BST)
+MFT Modified: 2017-07-05 10:45:32.760102400 (BST)
+Accessed: 2017-07-05 10:45:32.760102400 (BST)
+
+Attributes: 
+Type: $STANDARD_INFORMATION (16-0) Name: N/A Resident size: 72
+Type: $FILE_NAME (48-2) Name: N/A Resident size: 78
+Type: $DATA (128-1) Name: N/A Non-Resident size: 2657539 init_size: 2657539
+Starting address: 42929, length: 649 
