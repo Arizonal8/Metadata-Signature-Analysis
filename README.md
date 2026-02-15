@@ -41,8 +41,7 @@ controlled academic environment.
   -------------------- --------------------------------------------
   **Autopsy 4.22.1**   Primary digital forensic analysis platform
   **IrfanView**        EXIF metadata extraction & GPS review
-  **HxD Hex Editor**   File signature verification
-  **Google Maps**      GPS coordinate validation
+
 
 ------------------------------------------------------------------------
 
@@ -68,34 +67,6 @@ from another source by analyzing:
 -   Ownership data\
 -   File signature information
 
-------------------------------------------------------------------------
-
-## 📁 Repository Structure
-
-    Digital-Forensics-Metadata-Lab/
-    │
-    ├── evidence/
-    │   ├── Laquita.vmdk
-    │   └── case_metadata.txt
-    │
-    ├── findings/
-    │   ├── Task1_Harassment_Document.md
-    │   ├── Task5_Circuit_BRD_Analysis.md
-    │   ├── Task6_Evidence_Images.md
-    │   └── Task7_GPS_Photo_Locations.md
-    │
-    ├── reports/
-    │   ├── Autopsy_Case_Report.pdf
-    │   └── Evidence_Bookmarks.html
-    │
-    ├── screenshots/
-    │   ├── Task1_Document_Metadata.png
-    │   ├── Task5_BRD_Hex_View.png
-    │   ├── Task6_Evidence_Banner_Images.png
-    │   └── Task7_GPS_Map_Locations.png
-    │
-    ├── README.md
-    └── LAB_INSTRUCTIONS.md
 
 ------------------------------------------------------------------------
 
